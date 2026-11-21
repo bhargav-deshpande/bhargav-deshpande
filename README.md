@@ -41,7 +41,6 @@ MySQL | MongoDB
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/bhargav-deshpande
 - LinkedIn: www.linkedin.com/in/bhargav-deshpande-929517371
 
 ---
